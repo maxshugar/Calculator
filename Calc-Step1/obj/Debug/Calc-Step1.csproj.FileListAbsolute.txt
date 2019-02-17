@@ -1,0 +1,60 @@
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc_Step1.Form1.resources
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step2\Calc-Step1\obj\Debug\Calc-Step1.pdb
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc_Step1.Form1.resources
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\obj\Debug\Calc-Step1.pdb
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\574614\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step3\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc_Step1.Form1.resources
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step5.5\Calc-Step1\obj\Debug\Calc-Step1.pdb
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc_Step1.frmCalculator.resources
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\maxsh\OneDrive\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.pdb
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc_Step1.frmCalculator.resources
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\maxsh\Desktop\Onedrive is shit\HND Computing\Year 3\Computer Programming 2\Assignment 1\Calculator\Calc-Step6\Calc-Step1\obj\Debug\Calc-Step1.pdb
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\bin\Debug\Calc-Step1.exe
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\bin\Debug\Calc-Step1.pdb
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc-Step1.csprojAssemblyReference.cache
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc_Step1.frmCalculator.resources
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc_Step1.Properties.Resources.resources
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc-Step1.csproj.GenerateResource.cache
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc-Step1.csproj.CoreCompileInputs.cache
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc-Step1.exe
+C:\Users\maxsh\Desktop\CP2A1\Calculator\Calc-Step1\obj\Debug\Calc-Step1.pdb
